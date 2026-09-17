@@ -8,3 +8,11 @@
 
 ## 天気情報からの予想
 (typesafeAPI)[https://docs.typesafe.ai/introduction] を使用すること。
+
+## コードの書き方
+コードには How
+テストコードには What
+コミットログには Why
+コードコメントには Why not
+
+を書こう
